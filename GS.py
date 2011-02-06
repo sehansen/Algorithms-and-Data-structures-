@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 men = {'Thor': [0,5], 'Loke': [0,5], 'Frej':[0,5],'Odin':[0,5],'Balder':[0,5]}
 women = {'Freja':0,'Sif':0,'Idun':0,'Frigg':0,'Gerd':0}
 Thor = ['Sif','Freja','Frigg','Gerd','Idun']
